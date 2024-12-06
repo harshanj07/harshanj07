@@ -2,7 +2,7 @@
 
 ### About Me
 🎓 MSC Software Systems  
-🏫 PSG College Of Technology  
+🏫 PSG College Of Technology
 📫 22pw16@psgtech.ac.in  
 
 <a href="mailto:22pw16@psgtech.ac.in">
