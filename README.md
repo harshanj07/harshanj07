@@ -44,7 +44,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com" target="_blank">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://imgs.search.brave.com/8ccOSXs64IWcUhVUOB21SNUHX753PJ1xJI_f-WcvzC4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9tb25nb2Ri/LW9yaWdpbmFsLXdv/cmRtYXJrLWljb24t/MjUxeDI1Ni1yMGRi/ZmhzOS5wbmc)" alt="MongoDB" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
 
