@@ -62,6 +62,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/">
-    <img src="https://streamlit.io/" alt="Stramlit" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Stramlit" width="40" height="40"/>
   </a>
 </p>
