@@ -67,6 +67,9 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> 
   </a> 
+  <a href="https://render.com/" target="_blank">
+    <img src="https://github.com/render-oss.png" alt="Render" width="40" height="40"/>
+  </a>
 </p>
 
 
