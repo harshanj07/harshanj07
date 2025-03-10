@@ -64,4 +64,15 @@
   <a href="https://streamlit.io/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Stramlit" width="40" height="40"/>
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/idea/idea-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> 
+  </a> 
+</p>
+
+
+
+Bookmark message
+Copy message
+
+
 </p>
