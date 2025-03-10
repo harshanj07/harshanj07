@@ -62,7 +62,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Stramlit" width="40" height="40"/>
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC4ogdcPcIAOOMJktgBMhQnQ&psig=AOvVaw1oLxe9QOXFdqF-KCDWoIgY&ust=1741663836214000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICJpbTJ_osDFQAAAAAdAAAAABAJ)" alt="Stramlit" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/idea/idea-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> 
@@ -71,8 +71,6 @@
 
 
 
-Bookmark message
-Copy message
 
 
 </p>
